@@ -8,30 +8,30 @@
 ---
 
 ### ### 🎯 Project Objective
-The **Employee Comparison Engine** is a robust backend utility designed to process, validate, and compare large sets of employee records[cite: 1]. Built using **C#**, this project demonstrates how to handle complex data structures while maintaining high performance and type safety—essential qualities for enterprise-level human resource systems[cite: 1].
+The **Employee Comparison Engine** is a robust backend utility designed to process, validate, and compare large sets of employee records. Built using **C#**, this project demonstrates how to handle complex data structures while maintaining high performance and type safety—essential qualities for enterprise-level human resource systems.
 
 ---
 
 ### ### ✨ Key Engineering Features
-*   **Object-Oriented Design**: Utilizes strongly-typed classes to represent employee entities, ensuring code modularity and clear data modeling[cite: 1].
-*   **Comparative Logic Algorithms**: Implements custom logic to detect discrepancies in employee attributes, such as department shifts, tenure milestones, or salary band changes[cite: 1].
-*   **Data Integrity & Validation**: Features backend logic to handle null references and mismatched data types, ensuring accurate analytical reporting[cite: 1].
-*   **Scalable Backend Architecture**: Designed as a decoupled engine that can be easily integrated into larger ASP.NET web applications or desktop management tools[cite: 1].
+*   **Object-Oriented Design**: Utilizes strongly-typed classes to represent employee entities, ensuring code modularity and clear data modeling.
+*   **Comparative Logic Algorithms**: Implements custom logic to detect discrepancies in employee attributes, such as department shifts, tenure milestones, or salary band changes.
+*   **Data Integrity & Validation**: Features backend logic to handle null references and mismatched data types, ensuring accurate analytical reporting.
+*   **Scalable Backend Architecture**: Designed as a decoupled engine that can be easily integrated into larger ASP.NET web applications or desktop management tools.
 
 ---
 
 ### ### 🏗 Technical Stack
-*   **Language**: C#[cite: 1]
-*   **Framework**: .NET Core / .NET Framework[cite: 1]
-*   **Programming Paradigm**: Object-Oriented Programming (OOP)[cite: 1]
-*   **Development Tools**: Visual Studio, Git[cite: 1]
+*   **Language**: C#
+*   **Framework**: .NET Core / .NET Framework
+*   **Programming Paradigm**: Object-Oriented Programming (OOP)
+*   **Development Tools**: Visual Studio, Git
 
 ---
 
 ### ### 📂 Project Structure
-*   **`Models/`**: Contains the core `Employee` entity definitions and data structures[cite: 1].
-*   **`Logic/` / `Services/`**: Houses the comparison algorithms and data processing engines[cite: 1].
-*   **`Program.cs`**: The main entry point demonstrating the engine's execution and output[cite: 1].
+*   **`Models/`**: Contains the core `Employee` entity definitions and data structures.
+*   **`Logic/` / `Services/`**: Houses the comparison algorithms and data processing engines.
+*   **`Program.cs`**: The main entry point demonstrating the engine's execution and output.
 *   **`Tests/`**: (If applicable) Unit tests ensuring the reliability of comparison logic.
 
 ---
@@ -50,12 +50,11 @@ The **Employee Comparison Engine** is a robust backend utility designed to proce
 ### ### 🤝 Contact & Collaboration
 I am a **Software Developer** based in Vehari, Pakistan, specializing in **C# (.NET)**, **Python**, and **AI Automation**[cite: 1]. I focus on building scalable, clean-coded solutions for international clients[cite: 1].
 
-*   **LinkedIn**: [Muhammad Sajid](https://www.linkedin.com/in/muhammad-sajid-softwaredeveloper/)[cite: 1]
-*   **GitHub**: [raoferoz5](https://github.com/raoferoz5)[cite: 1]
-*   **Email**: raoferoz5@gmail.com[cite: 1]
+*   **LinkedIn**: [Muhammad Sajid](https://www.linkedin.com/in/muhammad-sajid-softwaredeveloper/)
+*   **GitHub**: [raoferoz5](https://github.com/raoferoz5)
+*   **Email**: raoferoz5@gmail.com
 
 ---
 
 ### ### 📄 License
-This project is licensed under the **MIT License** — ensuring professional transparency and open collaboration standards[cite: 1].
-```
+This project is licensed under the **MIT License** — ensuring professional transparency and open collaboration standards.
